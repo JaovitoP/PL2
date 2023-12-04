@@ -79,7 +79,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: red }}
-                      >
+                      > Deletar
                         <i className="bi bi-trash" style={{ fontSize: 20 }}></i>
                       </button>
                     </a>
@@ -87,7 +87,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: green }}
-                      >
+                      > Salvar
                         <i
                           className="bi bi-pencil"
                           style={{ fontSize: 20 }}
@@ -134,7 +134,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: red }}
-                      >
+                      > Deletar
                         <i className="bi bi-trash" style={{ fontSize: 20 }}></i>
                       </button>
                     </a>
@@ -142,7 +142,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: green }}
-                      >
+                      > Salvar
                         <i
                           className="bi bi-pencil"
                           style={{ fontSize: 20 }}
@@ -189,7 +189,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: red }}
-                      >
+                      > Deletar
                         <i className="bi bi-trash" style={{ fontSize: 20 }}></i>
                       </button>
                     </a>
@@ -197,7 +197,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: green }}
-                      >
+                      > Salvar
                         <i
                           className="bi bi-pencil"
                           style={{ fontSize: 20 }}
@@ -244,7 +244,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: red }}
-                      >
+                      > Deletar
                         <i className="bi bi-trash" style={{ fontSize: 20 }}></i>
                       </button>
                     </a>
@@ -252,7 +252,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: green }}
-                      >
+                      > Salvar
                         <i
                           className="bi bi-pencil"
                           style={{ fontSize: 20 }}
@@ -299,7 +299,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: red }}
-                      >
+                      > Deletar
                         <i className="bi bi-trash" style={{ fontSize: 20 }}></i>
                       </button>
                     </a>
@@ -307,7 +307,7 @@ export default class Servicos extends Component<props> {
                       <button
                         className="input-group-text"
                         style={{ background: green }}
-                      >
+                      > Salvar
                         <i
                           className="bi bi-pencil"
                           style={{ fontSize: 20 }}

@@ -39,53 +39,53 @@ export default class Pagamento extends Component<props> {
         <h5>Produtos e Serviços Consumidos por Cliente</h5>
         
         <table className="table table-bordered">
-          <thead>
-            <tr>
-              <th scope="col">Nome do produto</th>
-              <th scope="col">Pet</th>
-              <th scope="col">Quantidade</th>
-              <th scope="col">Preço do produto por unidade</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">***</th>
-              <td>***</td>
-              <td>***</td>
-              <td>***</td>
-            </tr>
-            <tr>
-              <th scope="row">***</th>
-              <td>***</td>
-              <td>***</td>
-              <td>***</td>
-            </tr>
-          </tbody>
-        </table>
-        <table className="table table-bordered">
-          <thead>
-            <tr>
-              <th scope="col">Nome do serviço</th>
-              <th scope="col">Pet</th>
-              <th scope="col">Quantidade</th>
-              <th scope="col">Preço do serviço por unidade</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">***</th>
-              <td>***</td>
-              <td>***</td>
-              <td>***</td>
-            </tr>
-            <tr>
-              <th scope="row">***</th>
-              <td>***</td>
-              <td>***</td>
-              <td>***</td>
-            </tr>
-          </tbody>
-        </table>
+        <thead>
+          <tr>
+            <th scope="col">Nome do produto</th>
+            <th scope="col">Pet</th>
+            <th scope="col">Quantidade</th>
+            <th scope="col">Preço do produto por unidade</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Produto 1</th>
+            <td>Nome do Pet</td>
+            <td>0</td>
+            <td>R$ 00.00</td>
+          </tr>
+          <tr>
+            <th scope="row">Produto 2</th>
+            <td>Nome do Pet</td>
+            <td>0</td>
+            <td>R$ 00.00</td>
+          </tr>
+        </tbody>
+      </table>
+      <table className="table table-bordered">
+        <thead>
+          <tr>
+            <th scope="col">Nome do serviço</th>
+            <th scope="col">Pet</th>
+            <th scope="col">Quantidade</th>
+            <th scope="col">Preço do serviço por unidade</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Serviço 1</th>
+            <td>Nome do Pet</td>
+            <td>0</td>
+            <td>R$ 00.00</td>
+          </tr>
+          <tr>
+            <th scope="row">Serviço 2</th>
+            <td>Nome do Pet</td>
+            <td>0</td>
+            <td>R$ 00.00</td>
+          </tr>
+        </tbody>
+      </table>
         <table className="table table-bordered">
           <thead>
             <tr>
